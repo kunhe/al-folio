@@ -2,23 +2,33 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 何坤 | <i>FirstnameLastname @ fb.com</i>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: kun16.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Reality Labs @ Meta</p>
+    <p>Redmond, WA, USA</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a research scientist at 
+[Meta Reality Labs](https://tech.fb.com/ar-vr/) (formerly Facebook Reality Labs), 
+working on [the future of interaction tracking](https://ai.facebook.com/blog/hand-tracking-deep-neural-networks)
+for Virtual Reality and Augmented Reality, 
+using computer vision and machine learning techniques. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My current research interests include:
+human body/hand pose estimation and tracking, domain adaptation, and active learning.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I graduated from [Boston University](http://www.bu.edu) in 2018 with PhD and MSc degrees in computer science. 
+My advisor was [Professor Stan Sclaroff](https://www.bu.edu/cs/profiles/stan-sclaroff/). 
+My PhD dissertation focused on learning vector embeddings for visual data, 
+which finds application in image retrieval and other related computer vision tasks.
+During grad school, I did research internships at Disney Research and Honda Research Institute, 
+and I was a visiting student at Brown University.
+I hold a Bachelor's degree in computer science from Zhejiang University, China. 
