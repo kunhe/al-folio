@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 何坤 • Researcher at Meta Reality Labs • <i>FirstnameLastname @ fb.com</i>
+subtitle: 何坤 • Researcher at Meta Reality Labs • <i>FirstnameLastname @ meta.com</i>
 
 profile:
   align: right
