@@ -2,15 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: 何坤 • Researcher at Meta Reality Labs • <i>FirstnameLastname @ meta.com</i>
+subtitle: 何坤 • Researcher at Meta Reality Labs • <i>FirstnameLastname @ meta.com</i> • [[CV](https://kunhe.github.io/assets/pdf/cv_2022.pdf)]
 
 profile:
   align: right
   image: kun16.jpg
   address: >
-    <p>Reality Labs @ Meta</p>
+    <p>Meta Reality Labs</p>
     <p>Redmond, WA, USA</p>
-    <p>[[CV](https://kunhe.github.io/assets/pdf/cv_2022.pdf)]</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
