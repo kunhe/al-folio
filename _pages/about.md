@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 何坤 • Researcher at Meta Reality Labs • <i>FirstnameLastname @ meta.com</i> • [CV](https://kunhe.github.io/assets/pdf/cv_2022.pdf)
+subtitle: 何坤 • Researcher at Meta Reality Labs • <i>FirstnameLastname @ meta.com</i> • 
 
 profile:
   align: right
@@ -18,9 +18,9 @@ social: true  # includes social icons at the bottom of the page
 
 I am a research scientist at 
 [Meta Reality Labs](https://tech.fb.com/ar-vr/) (formerly Facebook Reality Labs), 
-working on [the future of interaction tracking](https://ai.facebook.com/blog/hand-tracking-deep-neural-networks)
-for Virtual Reality and Augmented Reality, 
+working on the future of interactions for Virtual Reality and Augmented Reality, 
 using computer vision and machine learning techniques. 
+Here's [my CV](https://kunhe.github.io/assets/pdf/cv_2022.pdf).
 
 My current research interests include:
 human body/hand pose estimation and tracking, domain adaptation, and active learning.
