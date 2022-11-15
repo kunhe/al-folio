@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 何坤 • Researcher at Meta Reality Labs • <i>FirstnameLastname @ meta.com</i> • [[CV](https://kunhe.github.io/assets/pdf/cv_2022.pdf)]
+subtitle: 何坤 • Researcher at Meta Reality Labs • <i>FirstnameLastname @ meta.com</i> • [CV](https://kunhe.github.io/assets/pdf/cv_2022.pdf)
 
 profile:
   align: right
