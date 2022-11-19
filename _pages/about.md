@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 何坤 • Researcher at Meta Reality Labs • <i>FirstnameLastname @ meta.com</i> • 
+subtitle: 何坤 • Researcher at Meta Reality Labs • <i>FirstnameLastname @ meta.com</i>
 
 profile:
   align: right
@@ -16,8 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a research scientist at 
-[Meta Reality Labs](https://tech.fb.com/ar-vr/) (formerly Facebook Reality Labs), 
+I am a research scientist at [Meta Reality Labs](https://tech.fb.com/ar-vr/), 
 working on the future of interactions for Virtual Reality and Augmented Reality, 
 using computer vision and machine learning techniques. 
 Here's [my CV](https://kunhe.github.io/assets/pdf/cv_2022.pdf).
