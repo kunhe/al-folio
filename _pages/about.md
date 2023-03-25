@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 I am a research scientist at [Meta Reality Labs](https://tech.fb.com/ar-vr/), 
 working on the future of interactions for Virtual Reality and Augmented Reality, 
 using computer vision and machine learning techniques. 
-Here's [my CV](https://kunhe.github.io/assets/pdf/cv_2022.pdf).
+Here's [my CV](https://kunhe.github.io/assets/pdf/cv_2023.pdf).
 
 My current research interests include:
 human body/hand pose estimation and tracking, domain adaptation, and active learning.
