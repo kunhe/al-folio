@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am a research scientist at [Meta Reality Labs](https://tech.fb.com/ar-vr/), 
-working on the future of interactions for Virtual Reality and Augmented Reality, 
+working on the future of communication and interactions in AR/VR, 
 using computer vision and machine learning techniques. 
 Here's [my CV](https://kunhe.github.io/assets/pdf/cv_2023.pdf).
 
@@ -26,8 +26,6 @@ human body/hand pose estimation and tracking, domain adaptation, and active lear
 
 I graduated from [Boston University](http://www.bu.edu) in 2018 with PhD and MSc degrees in computer science. 
 My advisor was [Professor Stan Sclaroff](https://www.bu.edu/cs/profiles/stan-sclaroff/). 
-My PhD dissertation focused on learning vector embeddings for visual data, 
-which finds application in image retrieval and other related computer vision tasks.
 During grad school, I did research internships at Disney Research and Honda Research Institute, 
 and I was a visiting student at Brown University.
 I hold a Bachelor's degree in computer science from Zhejiang University, China. 
